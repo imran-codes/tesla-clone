@@ -1,6 +1,6 @@
 * {
   margin: 0;
-  font-family: "Rubik", "sans-serif";
+  font-family: Arial, Helvetica, sans-serif;
   color: #393c41;
   box-sizing: border-box;
   padding: 0;
@@ -9,6 +9,10 @@
 body {
   width: 100%;
   overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
 }
 
 @keyframes animateDown {
